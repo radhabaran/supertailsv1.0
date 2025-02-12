@@ -1,0 +1,13 @@
+torch==2.5.1        # PyTorch version (CPU or CUDA as needed)
+torchvision==0.20.1  # For image processing (if needed)
+torchaudio==2.5.1 # For audio processing (if needed)
+transformers==4.48.1 # Transformers library
+gradio==5.13.1
+python-dotenv==1.0.0  # o manage environment variables from .env files
+librosa
+pandas
+openpyxl
+requests
+langchain
+langchain-anthropic
+reportlab
